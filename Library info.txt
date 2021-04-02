@@ -1,4 +1,4 @@
 To exucute this project,an extra library package needs to be installed apart from python default package.
-Name of the package in pyhton is REQUESTS.
+Name of the package in python is REQUESTS.
 Install it from command prompt by typing
 >pip install requests
